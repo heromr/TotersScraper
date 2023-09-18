@@ -21,6 +21,7 @@
 <p>To install TotersScraper, follow these steps:
 <ol>
   <li>Clone the repository: <code>git clone https://github.com/heromr/TotersScraper.git</code></li>
+  <li>Change to the project directory: <code>cd TotersScraper</code></li>
   <li>Install dependencies: <code>pip install -r requirements.txt</code></li>
 </ol>
 </p>
